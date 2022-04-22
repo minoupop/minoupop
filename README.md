@@ -2647,3 +2647,613 @@ http://new-pro.tv:8080/Fernando/123321/293165
 http://new-pro.tv:8080/Fernando/123321/293166
 #EXTINF:-1,FR: Amazon Prime L-I-G-U-E  8
 http://new-pro.tv:8080/Fernando/123321/293168
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="FRANCE",Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/70724?checkedby:iptvcat.com
+#EXTINF:-1,3ABN Français (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8
+#EXTINF:-1,Alsace 20 (720p)
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Assnat (360p)
+https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8
+#EXTINF:-1,Bel RTL (720p)
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1,BFM Grand Lille (720p)
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1,BFM Grand Littoral (720p)
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1,BFM Lyon (720p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1,Boss Brothers TV (720p)
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1,BX1 (720p)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1,CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,Clubbing TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369&serverSideAds=false
+#EXTINF:-1,CRIBS : MAISONS DE STAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/602cf8963b4bc90007454541/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b08c0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5043513f-eb20-46fd-8286-9e9ba240e6f9&serverSideAds=false
+#EXTINF:-1,EMCI TV (1080p)
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
+#EXTINF:-1,France 24 Français (1080p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1,Grand Lille TV (720p)
+http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1,Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1,iCarly+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a4570-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0432d921-f53e-4dfe-8afd-2d0b3fb750f3&serverSideAds=false
+#EXTINF:-1,ICI Montreal (720p)
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1,Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1,ICI Tele Ontario (720p)
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1,Instant Saga
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549e98061b5f000776866a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba501-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e11c2399-2d50-4607-be2c-d35d72152bbe&serverSideAds=false
+#EXTINF:-1,Juste pour Rire
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a&serverSideAds=false
+#EXTINF:-1,KTO (404p)
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1,La Télé (1080p)
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1,Motorvision TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e&serverSideAds=false
+#EXTINF:-1,MTV Catfish+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e61-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0698157f-70d9-4890-978e-e648d753b321&serverSideAds=false
+#EXTINF:-1,MTV Classics+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e60-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de18fdd4-d30a-4263-8ecc-df902150744d&serverSideAds=false
+#EXTINF:-1,My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1,Ontario Parliamentary Network (FR) (720p)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1,Plus Belle la Vie+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fff211667854f00079a9b5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8abaa0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=353eca77-9a84-4a7e-a1d5-97ac79861272&serverSideAds=false
+#EXTINF:-1,Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Pluto TV Animaux
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7&serverSideAds=false
+#EXTINF:-1,Pluto TV Animé All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed52a62fa750007733239/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV BET Classics
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Bob l'éponge
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Catfish
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Ciné
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Pluto TV Ciné+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a&serverSideAds=false
+#EXTINF:-1,Pluto TV Cinéma
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android%2Csamsung%2Cmobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534&appVersion=5.4.0
+#EXTINF:-1,Pluto TV Classic TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099d461a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35f76fb0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2fac39a7-56bc-492e-ae1e-3f6fb6cef1bc&serverSideAds=false
+#EXTINF:-1,Pluto TV Comédie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Crime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Crime+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9391-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc31112d-4925-4f44-b50f-ddf0ca08e7c7&serverSideAds=false
+#EXTINF:-1,Pluto TV Cuisine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Dating
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6092544e7639460007d4835e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5a2b1311-2550-464b-8060-15765b30c4f8&serverSideAds=false
+#EXTINF:-1,Pluto TV Dora TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Dossiers FBI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Drama+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9390-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7eed86a2-2fee-402b-9978-ecaffe0235c0&serverSideAds=false
+#EXTINF:-1,Pluto TV Extrême
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV FailArmy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Gaming TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Hélène et les garçons
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604f8de01b479400078fb1e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b2fd0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d7f2cc-e6f8-4e43-9cb5-1de8d1f71f71&serverSideAds=false
+#EXTINF:-1,Pluto TV iCarly
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc7aa44d9c00081fca29/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV IGN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Inside
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Investigation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Kids Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Kids Séries+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89d040-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f06f039-4f3e-499b-a415-5cf7148a64d7&serverSideAds=false
+#EXTINF:-1,Pluto TV Le miel et les abeilles
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549a8d8f1b53000768bc52/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b56e0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9dcb446c-ad5a-4171-a84f-d144607d7b33&serverSideAds=false
+#EXTINF:-1,Pluto TV Le miracle de l'amour
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549c238c3f21000753d3e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8b56e1-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=af1cb1d2-a877-4020-81af-3f89e475eb94&serverSideAds=false
+#EXTINF:-1,Pluto TV Les Cordier
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed80fa09f120007c8daa5/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Les filles d'à côté
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60549d97cd7b090007c73314/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ba500-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e7a9749-ec3d-4fea-9861-01e153b22e40&serverSideAds=false
+#EXTINF:-1,Pluto TV Les Nouveaux Detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Les Nouveaux Detectives
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Pluto TV Live in Concert
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a&serverSideAds=false
+#EXTINF:-1,Pluto TV Louis La Brocante
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed6d569d2d4000864a976/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV MADE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV MTV Classic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Paranormal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV People are Awesome
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0720dc198000728f9d3/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Plus Belle La Vie
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Plus Belle La Vie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,Pluto TV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d&serverSideAds=false
+#EXTINF:-1,Pluto TV Sports
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220&serverSideAds=false
+#EXTINF:-1,Pluto TV TEEN SERIES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Telenovela
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV The Pet Collective
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Tortues Ninja TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV TROL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,Pluto TV Yoga
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd&serverSideAds=false
+#EXTINF:-1,Radio Contact (720p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1,RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1,Sofy TV (720p)
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,TMA Caraïbes
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1,TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1,TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1,Télé Culturelle Médias (720p)
+https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
+#EXTINF:-1,Vision 4 (480p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1,viàMoselleTV (720p)
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1,World Poker Tour
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:-1,A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1,A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+#EXTINF:-1,A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+#EXTINF:-1,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1,BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1,Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1,Bloomberg TV+ (en)
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1,Fashion TV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1,KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1,MyComedy
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1,Radio Contact - github.com/Free-IPTV
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1,Sofy TV
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1,TébéSud
+https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
+#EXTINF:-1,TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1,TVR - github.com/Free-IPTV
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1,France: France 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,France: France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1,France: France 24 Arabic
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1,France: France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,France: France 24 French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1,France: TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,France: TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,Fr: TF1 HD
+http://new-pro.tv:8080/Fernando/123321/300621
+#EXTINF:-1,FR: France 2 HD
+http://new-pro.tv:8080/Fernando/123321/70556
+#EXTINF:-1,FR: France 5 FHD
+http://new-pro.tv:8080/Fernando/123321/300624
+#EXTINF:-1,FR: 6Ter FHD
+http://new-pro.tv:8080/Fernando/123321/300627
+#EXTINF:-1,Fr: RTL 9 HD
+http://new-pro.tv:8080/Fernando/123321/300653
+#EXTINF:-1,Fr: Teva HD
+http://new-pro.tv:8080/Fernando/123321/70567
+#EXTINF:-1,Fr: Teva FHD
+http://new-pro.tv:8080/Fernando/123321/300631
+#EXTINF:-1,Fr: TMC HD
+http://new-pro.tv:8080/Fernando/123321/70568
+#EXTINF:-1,Fr: W9 FHD
+http://new-pro.tv:8080/Fernando/123321/70569
+#EXTINF:-1,FR: W9 HD
+http://new-pro.tv:8080/Fernando/123321/300625
+#EXTINF:-1,Fr: Arte HD
+http://new-pro.tv:8080/Fernando/123321/300629
+#EXTINF:-1,Fr: Arte FHD
+http://new-pro.tv:8080/Fernando/123321/70570
+#EXTINF:-1,Fr: RTS Deux HD
+http://new-pro.tv:8080/Fernando/123321/70577
+#EXTINF:-1,FR: La Chaine Meteo HD
+http://new-pro.tv:8080/Fernando/123321/70579
+#EXTINF:-1,FR: Notele TV
+http://new-pro.tv:8080/Fernando/123321/245205
+#EXTINF:-1,FR: Alsace 20 HD
+http://new-pro.tv:8080/Fernando/123321/245206
+#EXTINF:-1,Fr: TV7 Colmar
+http://new-pro.tv:8080/Fernando/123321/293289
+#EXTINF:-1,Fr: Canal 9 HD
+http://new-pro.tv:8080/Fernando/123321/70594
+#EXTINF:-1,FR: France 24 FHD
+http://new-pro.tv:8080/Fernando/123321/70745
+#EXTINF:-1,FR: France 24
+http://new-pro.tv:8080/Fernando/123321/300604
+#EXTINF:-1,Fr: France Info FHD
+http://new-pro.tv:8080/Fernando/123321/70743
+#EXTINF:-1,FR: EuroNews HD
+http://new-pro.tv:8080/Fernando/123321/70744
+#EXTINF:-1,FR: LCI HD
+http://new-pro.tv:8080/Fernando/123321/300603
+#EXTINF:-1,FR: BFM TV HD
+http://new-pro.tv:8080/Fernando/123321/70740
+#EXTINF:-1,FR: BFM Business HD
+http://new-pro.tv:8080/Fernando/123321/70747
+#EXTINF:-1,Fr: BFM Paris
+http://new-pro.tv:8080/Fernando/123321/70748
+#EXTINF:-1,FR: BFM Azur
+http://new-pro.tv:8080/Fernando/123321/293283
+#EXTINF:-1,Fr: BFM Lyon Metropole
+http://new-pro.tv:8080/Fernando/123321/293284
+#EXTINF:-1,FR: BFM Alpes Du Sud
+http://new-pro.tv:8080/Fernando/123321/300606
+#EXTINF:-1,FR: BFM Grand Lille
+http://new-pro.tv:8080/Fernando/123321/125680
+#EXTINF:-1,Fr: CNews HD
+http://new-pro.tv:8080/Fernando/123321/70739
+#EXTINF:-1,Fr: Canal News HD
+http://new-pro.tv:8080/Fernando/123321/70741
+#EXTINF:-1,Fr: Planete+ HD
+http://new-pro.tv:8080/Fernando/123321/70716
+#EXTINF:-1,Fr: Discovery Channel HD
+http://new-pro.tv:8080/Fernando/123321/70719
+#EXTINF:-1,Fr: Discovery Science HD
+http://new-pro.tv:8080/Fernando/123321/70720
+#EXTINF:-1,Fr: Discovery Family HD
+http://new-pro.tv:8080/Fernando/123321/70721
+#EXTINF:-1,Fr: Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/70725
+#EXTINF:-1,Fr: Histoire HD
+http://new-pro.tv:8080/Fernando/123321/70728
+#EXTINF:-1,Fr: Ushuaia HD
+http://new-pro.tv:8080/Fernando/123321/70727
+#EXTINF:-1,Fr: Animaux HD
+http://new-pro.tv:8080/Fernando/123321/70729
+#EXTINF:-1,Fr: Trek HD
+http://new-pro.tv:8080/Fernando/123321/70730
+#EXTINF:-1,Fr: Chasse Et Peche HD
+http://new-pro.tv:8080/Fernando/123321/70731
+#EXTINF:-1,Fr: Sciences & Vie TV
+http://new-pro.tv:8080/Fernando/123321/70732
+#EXTINF:-1,Fr: RMC Decouverte HD
+http://new-pro.tv:8080/Fernando/123321/70733
+#EXTINF:-1,Fr: Seasons HD
+http://new-pro.tv:8080/Fernando/123321/70734
+#EXTINF:-1,FR: Fashion TV Midnite Secrets
+http://new-pro.tv:8080/Fernando/123321/245203
+#EXTINF:-1,Fr: TCM Cinema HD
+http://new-pro.tv:8080/Fernando/123321/70736
+#EXTINF:-1,Fr: Crime District HD
+http://new-pro.tv:8080/Fernando/123321/70737
+#EXTINF:-1,FR: CGTN Français
+http://new-pro.tv:8080/Fernando/123321/245201
+#EXTINF:-1,Fr: SyFy HD
+http://new-pro.tv:8080/Fernando/123321/70621
+#EXTINF:-1,Fr: Serie Club HD
+http://new-pro.tv:8080/Fernando/123321/70622
+#EXTINF:-1,Fr: 13eme Rue HD
+http://new-pro.tv:8080/Fernando/123321/70623
+#EXTINF:-1,Fr: Altice Studio HD
+http://new-pro.tv:8080/Fernando/123321/70624
+#EXTINF:-1,Fr: TV Breizh HD
+http://new-pro.tv:8080/Fernando/123321/70626
+#EXTINF:-1,FR: TV Breizh FHD
+http://new-pro.tv:8080/Fernando/123321/300633
+#EXTINF:-1,Fr: NRJ 12 HD
+http://new-pro.tv:8080/Fernando/123321/70627
+#EXTINF:-1,Fr: NRJ 12 FHD
+http://new-pro.tv:8080/Fernando/123321/300632
+#EXTINF:-1,FR: Monaco Info
+http://new-pro.tv:8080/Fernando/123321/245223
+#EXTINF:-1,Fr: RMC Story HD
+http://new-pro.tv:8080/Fernando/123321/70628
+#EXTINF:-1,Fr: Cherie 25 HD
+http://new-pro.tv:8080/Fernando/123321/70629
+#EXTINF:-1,Fr: Paris Premiere HD
+http://new-pro.tv:8080/Fernando/123321/70630
+#EXTINF:-1,Fr: E! Entertainment HD
+http://new-pro.tv:8080/Fernando/123321/70632
+#EXTINF:-1,Fr: My Cuisine
+http://new-pro.tv:8080/Fernando/123321/70633
+#EXTINF:-1,FR: J-ONE HD
+http://new-pro.tv:8080/Fernando/123321/245212
+#EXTINF:-1,Fr: Game One HD
+http://new-pro.tv:8080/Fernando/123321/70635
+#EXTINF:-1,Fr: Mangas HD
+http://new-pro.tv:8080/Fernando/123321/70636
+#EXTINF:-1,Fr: Bet HD
+http://new-pro.tv:8080/Fernando/123321/70639
+#EXTINF:-1,Fr: A+ HD
+http://new-pro.tv:8080/Fernando/123321/70642
+#EXTINF:-1,Fr: Nollywood TV
+http://new-pro.tv:8080/Fernando/123321/70643
+#EXTINF:-1,Fr: Baby TV
+http://new-pro.tv:8080/Fernando/123321/70647
+#EXTINF:-1,Fr: Tiji HD
+http://new-pro.tv:8080/Fernando/123321/70648
+#EXTINF:-1,Fr: Boomerang HD
+http://new-pro.tv:8080/Fernando/123321/70649
+#EXTINF:-1,Fr: Cartoon Network FHD
+http://new-pro.tv:8080/Fernando/123321/70650
+#EXTINF:-1,Fr: Toonami HD
+http://new-pro.tv:8080/Fernando/123321/70651
+#EXTINF:-1,Fr: Teletoon+ 1 HD
+http://new-pro.tv:8080/Fernando/123321/70652
+#EXTINF:-1,Fr: Teletoon+ HD
+http://new-pro.tv:8080/Fernando/123321/70653
+#EXTINF:-1,Fr: Canal J HD
+http://new-pro.tv:8080/Fernando/123321/70654
+#EXTINF:-1,Fr: Boing HD
+http://new-pro.tv:8080/Fernando/123321/70655
+#EXTINF:-1,FR: Disney Junior HD
+http://new-pro.tv:8080/Fernando/123321/70656
+#EXTINF:-1,FR: Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/70658
+#EXTINF:-1,Fr: Disney+ HD
+http://new-pro.tv:8080/Fernando/123321/125653
+#EXTINF:-1,Fr: Game One +1
+http://new-pro.tv:8080/Fernando/123321/70713
+#EXTINF:-1,FR: Piwi+ HD
+http://new-pro.tv:8080/Fernando/123321/70659
+#EXTINF:-1,FR: Nickelodeon HD
+http://new-pro.tv:8080/Fernando/123321/70660
+#EXTINF:-1,Fr: Nickelodeon+ 1
+http://new-pro.tv:8080/Fernando/123321/219019
+#EXTINF:-1,Fr: Nickelodeon 4 Teen HD
+http://new-pro.tv:8080/Fernando/123321/70661
+#EXTINF:-1,Fr: Nickelodeon Junior FHD
+http://new-pro.tv:8080/Fernando/123321/70662
+#EXTINF:-1,Fr: Canal+ HD
+http://new-pro.tv:8080/Fernando/123321/70598
+#EXTINF:-1,Fr: Canal+ Series HD
+http://new-pro.tv:8080/Fernando/123321/70600
+#EXTINF:-1,Fr: Canal+ Family HD
+http://new-pro.tv:8080/Fernando/123321/70601
+#EXTINF:-1,Fr: Canal+ Decale HD
+http://new-pro.tv:8080/Fernando/123321/70602
+#EXTINF:-1,Fr: Canal+ Cinema HD
+http://new-pro.tv:8080/Fernando/123321/70603
+#EXTINF:-1,Fr: OCS Max HD
+http://new-pro.tv:8080/Fernando/123321/70606
+#EXTINF:-1,Fr: OCS Geants HD
+http://new-pro.tv:8080/Fernando/123321/70608
+#EXTINF:-1,Fr: OCS Choc HD
+http://new-pro.tv:8080/Fernando/123321/70609
+#EXTINF:-1,Fr: Cine+ Premiere HD
+http://new-pro.tv:8080/Fernando/123321/70611
+#EXTINF:-1,Fr: Cine+ Emotion HD
+http://new-pro.tv:8080/Fernando/123321/70613
+#EXTINF:-1,Fr: Cine+ Famiz HD
+http://new-pro.tv:8080/Fernando/123321/70614
+#EXTINF:-1,Fr: Cine+ Classic HD
+http://new-pro.tv:8080/Fernando/123321/70616
+#EXTINF:-1,Fr: Cine+ Polar HD
+http://new-pro.tv:8080/Fernando/123321/70620
+#EXTINF:-1,Fr: Paramount Decale HD
+http://new-pro.tv:8080/Fernando/123321/70617
+#EXTINF:-1,Fr: Paramount Channel HD
+http://new-pro.tv:8080/Fernando/123321/70618
+#EXTINF:-1,Fr: C8 HD
+http://new-pro.tv:8080/Fernando/123321/219011
+#EXTINF:-1,Fr: Comedie+ HD
+http://new-pro.tv:8080/Fernando/123321/70582
+#EXTINF:-1,Fr: Blue Zoom F
+http://new-pro.tv:8080/Fernando/123321/70641
+#EXTINF:-1,FR: MY TV
+http://new-pro.tv:8080/Fernando/123321/245209
+#EXTINF:-1,FR: MDL
+http://new-pro.tv:8080/Fernando/123321/245198
+#EXTINF:-1,Fr: AB1 HD
+http://new-pro.tv:8080/Fernando/123321/70637
+#EXTINF:-1,Fr: AB3 HD
+http://new-pro.tv:8080/Fernando/123321/70638
+#EXTINF:-1,Fr: AB3 FHD
+http://new-pro.tv:8080/Fernando/123321/300652
+#EXTINF:-1,FR: ABXplore
+http://new-pro.tv:8080/Fernando/123321/125674
+#EXTINF:-1,FR: Best Cabel / TV Breez HD
+http://new-pro.tv:8080/Fernando/123321/300577
+#EXTINF:-1,FR: TV78
+http://new-pro.tv:8080/Fernando/123321/300571
+#EXTINF:-1,FR: Vosges TV HD
+http://new-pro.tv:8080/Fernando/123321/300573
+#EXTINF:-1,FR: WEO HD
+http://new-pro.tv:8080/Fernando/123321/300575
+#EXTINF:-1,Fr: Fashion TV Paris HD
+http://new-pro.tv:8080/Fernando/123321/293294
+#EXTINF:-1,Fr: MCM HD
+http://new-pro.tv:8080/Fernando/123321/70754
+#EXTINF:-1,Fr: MCM Pop HD
+http://new-pro.tv:8080/Fernando/123321/70755
+#EXTINF:-1,Fr: MTV
+http://new-pro.tv:8080/Fernando/123321/300658
+#EXTINF:-1,Fr: MTV France HD
+http://new-pro.tv:8080/Fernando/123321/70760
+#EXTINF:-1,Fr: M6 Music HD
+http://new-pro.tv:8080/Fernando/123321/70751
+#EXTINF:-1,FR: A2i Music
+http://new-pro.tv:8080/Fernando/123321/300578
+#EXTINF:-1,Fr: NRJ Hits HD
+http://new-pro.tv:8080/Fernando/123321/70758
+#EXTINF:-1,FR: Trace Urban HD
+http://new-pro.tv:8080/Fernando/123321/125703
+#EXTINF:-1,FR: Trace Gospel
+http://new-pro.tv:8080/Fernando/123321/245225
+#EXTINF:-1,Fr: Trace Kitoko HD
+http://new-pro.tv:8080/Fernando/123321/219016
+#EXTINF:-1,Fr: Trace Toca HD
+http://new-pro.tv:8080/Fernando/123321/219014
+#EXTINF:-1,FR: Trace Naija HD
+http://new-pro.tv:8080/Fernando/123321/125706
+#EXTINF:-1,Fr: C Star Hits France
+http://new-pro.tv:8080/Fernando/123321/70764
+#EXTINF:-1,FR: DanceStar TV
+http://new-pro.tv:8080/Fernando/123321/245227
+#EXTINF:-1,Fr: LFM TV HD
+http://new-pro.tv:8080/Fernando/123321/70757
+#EXTINF:-1,Fr: CanalPlay 4 HD
+http://new-pro.tv:8080/Fernando/123321/70770
+#EXTINF:-1,FR: Orange Cine 3
+http://new-pro.tv:8080/Fernando/123321/245217
+#EXTINF:-1,FR: Orange Cine 5 ACTION HD
+http://new-pro.tv:8080/Fernando/123321/245219
+#EXTINF:-1,Fr: A La Carte 1 HD
+http://new-pro.tv:8080/Fernando/123321/70779
+#EXTINF:-1,Fr: A La Carte 3 HD
+http://new-pro.tv:8080/Fernando/123321/70780
+#EXTINF:-1,Fr: A La Carte 4 HD
+http://new-pro.tv:8080/Fernando/123321/70781
+#EXTINF:-1,Fr: A La Carte 6 HD
+http://new-pro.tv:8080/Fernando/123321/300582
+#EXTINF:-1,FR: BeIN Sports 1 HD
+http://new-pro.tv:8080/Fernando/123321/300599
+#EXTINF:-1,FR: EuroSport 1 HD
+http://new-pro.tv:8080/Fernando/123321/70683
+#EXTINF:-1,FR: EuroSport 2 HD
+http://new-pro.tv:8080/Fernando/123321/70684
+#EXTINF:-1,FR: RMC Sport 1 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70686
+#EXTINF:-1,FR: RMC Sport 2 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70687
+#EXTINF:-1,FR: RMC Sport 4 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70689
+#EXTINF:-1,FR: RMC Sport 5 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70690
+#EXTINF:-1,FR: RMC Sport 6 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70691
+#EXTINF:-1,FR: RMC Sport 14 HD [Match Time]
+http://new-pro.tv:8080/Fernando/123321/70699
+#EXTINF:-1,FR: Equidia Live HD
+http://new-pro.tv:8080/Fernando/123321/70709
+#EXTINF:-1,FR: InfoSport + HD
+http://new-pro.tv:8080/Fernando/123321/70708
+#EXTINF:-1,FR: Multi Sports 2
+http://new-pro.tv:8080/Fernando/123321/70702
+#EXTINF:-1,FR: Multi Sports 3
+http://new-pro.tv:8080/Fernando/123321/70703
+#EXTINF:-1,FR: Multi Sports 4
+http://new-pro.tv:8080/Fernando/123321/70704
+#EXTINF:-1,FR: Multi Sports 5
+http://new-pro.tv:8080/Fernando/123321/70705
+#EXTINF:-1,FR: Multi Sports 6
+http://new-pro.tv:8080/Fernando/123321/70706
+#EXTINF:-1,Fr: Amazon Prime 1 HD
+http://new-pro.tv:8080/Fernando/123321/179644
+#EXTINF:-1,Fr: Amazon Prime 4 HD
+http://new-pro.tv:8080/Fernando/123321/179647
+#EXTINF:-1,Fr: Amazon Prime 6 HD
+http://new-pro.tv:8080/Fernando/123321/179649
+#EXTINF:-1,Fr: Amazon Prime 7 HD
+http://new-pro.tv:8080/Fernando/123321/179650
+#EXTINF:-1,FR: Amazon Prime L-I-G-U-E  2
+http://new-pro.tv:8080/Fernando/123321/293162
+#EXTINF:-1,FR: AMAZON PRIME L-I-G-U-E  3
+http://new-pro.tv:8080/Fernando/123321/293163
+#EXTINF:-1,FR: AMAZON PRIME L-I-G-U-E  4
+http://new-pro.tv:8080/Fernando/123321/293164
+#EXTINF:-1,FR: Amazon Prime L-I-G-U-E  5
+http://new-pro.tv:8080/Fernando/123321/293165
+#EXTINF:-1,FR: Amazon Prime L-I-G-U-E  6
+http://new-pro.tv:8080/Fernando/123321/293166
+#EXTINF:-1,FR: Amazon Prime L-I-G-U-E  8
+http://new-pro.tv:8080/Fernando/123321/293168
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 1 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 2 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 3 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 4 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD" tvg-logo="" group-title="osn",BEIN: BeIN Series 1 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD" tvg-logo="" group-title="osn",BEIN: BeIN Series 2 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/36.m3u
