@@ -2654,3 +2654,15 @@ http://new-pro.tv:8080/Fernando/123321/293165
 http://new-pro.tv:8080/Fernando/123321/293166
 #EXTINF:-1,FR: Amazon Prime L-I-G-U-E  8
 http://new-pro.tv:8080/Fernando/123321/293168
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 1 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 2 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 3 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD" tvg-logo="" group-title="osn",BEIN: BEIN MOVIES 4 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD" tvg-logo="" group-title="osn",BEIN: BeIN Series 1 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD" tvg-logo="" group-title="osn",BEIN: BeIN Series 2 HD
+http://sarhantv.xyz:25461/live/hishamtv/676767/36.m3u8
