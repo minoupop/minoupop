@@ -6,5 +6,15 @@ http://free.one24tv.com:8080/get.php?username=87701650993730&password=8770165099
 http://free.one24tv.com:8080/get.php?username=25371649852172&password=25371649852172&type=m3u_plus&output=mpegts
 http://free.one24tv.com:8080/get.php?username=15301651163383&password=15301651163383&type=m3u_plus&output=mpegts
 https://tinyurl.com/ys6r889m
-http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/15115
-http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/81001
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| ANIMAL PLANET HD" tvg-logo="http://one-iptv.com/imageslogo/pu_animalplanet.png" group-title="ARABIC OSN",|.AR.| ANIMAL PLANET HD
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/67275
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| DISCOVERY CHANNEL HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_16_E_4_85_C00000_0_0_0.png" group-title="ARABIC OSN",|.AR.| DISCOVERY CHANNEL HD
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/67276
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| DISCOVERY FAMILY HD" tvg-logo="http://one-iptv.com/imageslogo/pu_DiscoveryFamily.png" group-title="ARABIC OSN",|.AR.| DISCOVERY FAMILY HD
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/67277
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| DISCOVERY ID HD" tvg-logo="" group-title="ARABIC OSN",|.AR.| DISCOVERY ID HD
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/67278
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| DISCOVERY SCIENCE HD" tvg-logo="http://one-iptv.com/imageslogo/pu_discoveryscience.png" group-title="ARABIC OSN",|.AR.| DISCOVERY SCIENCE HD
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/67279
+#EXTINF:-1 tvg-id="" tvg-name="|.FR.SD.| USHUAIA.TV" tvg-logo="" group-title="FRANCE SD",|.FR.SD.| USHUAIA.TV
+http://t24.viptvpro.com:25443/V54lDgHAYwY/L8yKgJWMTf/111579
